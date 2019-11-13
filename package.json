@@ -1,0 +1,27 @@
+{
+  "name": "websockets-demo",
+  "version": "1.0.0",
+  "description": "websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IEturbo/websockets.git"
+  },
+  "keywords": [
+    "express+websockets"
+  ],
+  "author": "ieturbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IEturbo/websockets/issues"
+  },
+  "homepage": "https://github.com/IEturbo/websockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
+  }
+}
